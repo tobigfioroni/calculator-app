@@ -2,7 +2,8 @@
 Project to practice in JavaScript. Calculator app applying functions, methods and DOM.
 <br>
 <br>
-URL: [CalculatorApp](calculator-app-tobigfioroni.netlify.app){:target="_blank" rel="noopener"}
+URL: [Visita mi página web](https://www.example.com){:target="_blank" rel="noopener noreferrer"}
+
 <br>
 <br>
 ![Texto alternativo](img/screenshot-calculator.png)
