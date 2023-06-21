@@ -1,5 +1,6 @@
 # calculator-app-js
-Project to practice in JavaScript. Calculator app applying functions, methods and DOM.
+<br>
+Simple calculator app with division, multiplication, addition, subtraction and percentages.
 <br>
 <br>
 URL: [CalculatorApp](https://calculator-app-tobigfioroni.netlify.app/)
